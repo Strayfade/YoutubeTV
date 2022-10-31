@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "electron": "^21.2.0"
+    },
+    "name": "youtubetv",
+    "version": "1.0.0",
+    "description": "YouTube TV web-application for desktop!",
+    "main": "index.js",
+    "scripts": {
+        "test": "electron ."
+    },
+    "author": "Strayfade",
+    "license": "MIT"
+}
