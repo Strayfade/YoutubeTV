@@ -1,4 +1,4 @@
-# YoutubeTV
+# YouTube TV
 The YouTube TV app from Roku/Smart TV devices as a desktop app using Electron.
 
 <p>
