@@ -1,6 +1,13 @@
 # YoutubeTV
 The YouTube TV app from Roku/Smart TV devices as a desktop app using Electron.
 
+<p>
+<img src='https://img.shields.io/github/directory-file-count/Strayfade/YoutubeTV?color=orange&label=Total%20Files&style=flat-square'>
+<img src='https://img.shields.io/github/repo-size/Strayfade/YoutubeTV?label=Size&style=flat-square'>
+<img src='https://img.shields.io/github/license/Strayfade/YoutubeTV?label=License&style=flat-square'>
+<img src='https://img.shields.io/github/package-json/v/Strayfade/YoutubeTV?color=red&label=Version&style=flat-square'>
+</p>
+
 ### Usage (Node.js)
  - Clone the repository and navigate to it
 ```
